@@ -1,0 +1,47 @@
+[
+{ 
+  "op": "add", "path": "/supportedContainers/aegiminilocker", "value": "/objects/minilockers/aegiminilocker/aegiminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/akkimariminilocker", "value": "/objects/minilockers/akkimariminilocker/akkimariminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/apexminilocker", "value": "/objects/minilockers/apexminilocker/apexminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/arachneminilocker", "value": "/objects/minilockers/arachneminilocker/arachneminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/avaliminilocker", "value": "/objects/minilockers/avaliminilocker/avaliminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/avianminilocker", "value": "/objects/minilockers/avianminilocker/avianminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/avikanminilocker", "value": "/objects/minilockers/avikanminilocker/avikanminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/floranminilocker", "value": "/objects/minilockers/floranminilocker/floranminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/glitchminilocker", "value": "/objects/minilockers/glitchminilocker/glitchminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/humanminilocker", "value": "/objects/minilockers/humanminilocker/humanminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/hylotlminilocker", "value": "/objects/minilockers/hylotlminilocker/hylotlminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/lastreeminilocker", "value": "/objects/minilockers/lastreeminilocker/lastreeminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/novakidminilocker", "value": "/objects/minilockers/novakidminilocker/novakidminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/slimeminilocker", "value": "/objects/minilockers/slimeminilocker/slimeminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/trinkminilocker", "value": "/objects/minilockers/trinkminilocker/trinkminilocker.object"
+}
+]

@@ -1,0 +1,8 @@
+{
+  "version" : "1.0",
+  "author" : "WhatThePuckPT",
+  "requires" : ["Enhanced Storage", "minilockers"],
+  "description" : "Adds Enhanced Storage support for Mini Lockers.",
+  "name" : "minilockers_es",
+  "friendlyName" : "Mini Lockers - Enhanced Storage Support"
+}
