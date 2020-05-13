@@ -21,6 +21,12 @@
   "op": "add", "path": "/supportedContainers/avikanminilocker", "value": "/objects/minilockers/avikanminilocker/avikanminilocker.object"
 },
 { 
+  "op": "add", "path": "/supportedContainers/draconisminilocker", "value": "/objects/minilockers/draconisminilocker/draconisminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/felinminilocker", "value": "/objects/minilockers/felinminilocker/felinminilocker.object"
+},
+{ 
   "op": "add", "path": "/supportedContainers/floranminilocker", "value": "/objects/minilockers/floranminilocker/floranminilocker.object"
 },
 { 
@@ -37,6 +43,9 @@
 },
 { 
   "op": "add", "path": "/supportedContainers/novakidminilocker", "value": "/objects/minilockers/novakidminilocker/novakidminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/saturnminilocker", "value": "/objects/minilockers/saturnminilocker/saturnminilocker.object"
 },
 { 
   "op": "add", "path": "/supportedContainers/slimeminilocker", "value": "/objects/minilockers/slimeminilocker/slimeminilocker.object"
