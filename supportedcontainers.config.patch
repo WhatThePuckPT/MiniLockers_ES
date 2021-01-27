@@ -39,7 +39,19 @@
   "op": "add", "path": "/supportedContainers/hylotlminilocker", "value": "/objects/minilockers/hylotlminilocker/hylotlminilocker.object"
 },
 { 
+  "op": "add", "path": "/supportedContainers/indixminilocker", "value": "/objects/minilockers/indixminilocker/indixminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/indixminilocker", "value": "/objects/minilockers/kfminilocker/kfminilocker.object"
+},
+{ 
   "op": "add", "path": "/supportedContainers/lastreeminilocker", "value": "/objects/minilockers/lastreeminilocker/lastreeminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/legionminilocker", "value": "/objects/minilockers/legionminilocker/legionminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/letheiaminilocker", "value": "/objects/minilockers/letheiaminilocker/letheiaminilocker.object"
 },
 { 
   "op": "add", "path": "/supportedContainers/novakidminilocker", "value": "/objects/minilockers/novakidminilocker/novakidminilocker.object"
@@ -48,9 +60,15 @@
   "op": "add", "path": "/supportedContainers/saturnminilocker", "value": "/objects/minilockers/saturnminilocker/saturnminilocker.object"
 },
 { 
+  "op": "add", "path": "/supportedContainers/indixminilocker", "value": "/objects/minilockers/sgminilocker/sgminilocker.object"
+},
+{ 
   "op": "add", "path": "/supportedContainers/slimeminilocker", "value": "/objects/minilockers/slimeminilocker/slimeminilocker.object"
 },
 { 
   "op": "add", "path": "/supportedContainers/trinkminilocker", "value": "/objects/minilockers/trinkminilocker/trinkminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/indixminilocker", "value": "/objects/minilockers/vieraminilocker/vieraminilocker.object"
 }
 ]
