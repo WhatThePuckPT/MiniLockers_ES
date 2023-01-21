@@ -45,6 +45,42 @@
   "op": "add", "path": "/supportedContainers/kfminilocker", "value": "/objects/minilockers/kfminilocker/kfminilocker.object"
 },
 { 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_black", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_black.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_blue", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_blue.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_brown", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_brown.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_gray", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_gray.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_green", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_green.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_orange", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_orange.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_pink", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_pink.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_purple", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_purple.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_red", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_red.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_white", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_white.object"
+},
+{ 
+  "op": "add", "path": "/supportedContainers/kitsuneminilocker_yellow", "value": "/objects/minilockers/kitsuneminilocker/kitsuneminilocker_yellow.object"
+},
+{ 
   "op": "add", "path": "/supportedContainers/lastreeminilocker", "value": "/objects/minilockers/lastreeminilocker/lastreeminilocker.object"
 },
 { 
